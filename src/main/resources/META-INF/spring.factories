@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=io.github.wangmeng.isc.config.CamerasAutoConfiguration

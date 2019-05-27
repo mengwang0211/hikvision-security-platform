@@ -18,7 +18,7 @@
 ##### pom.xml引入[已上传到中央仓库]
 
     <dependency>
-        <groupId>io.github.mengwang0211</groupId>
+        <groupId>pub.wangmeng.hikvision</groupId>
         <artifactId>hikvision-security-platform</artifactId>
         <version>1.0.0</version>
     </dependency>    

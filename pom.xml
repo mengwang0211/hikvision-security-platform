@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>pub.wangmeng.hikvision</groupId>
+    <groupId>com.github.mengwang0211</groupId>
     <artifactId>hikvision-security-platform</artifactId>
     <version>1.0.0</version>
     <description>海康威视综合安防平台 JAVA SDK封装 - SpringBoot</description>
